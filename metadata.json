@@ -1,0 +1,6 @@
+{
+  "name": "Xtream Link Generator",
+  "description": "Uma ferramenta simples para gerar e abrir links personalizados da Xtream Cloud alterando a chave do dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
